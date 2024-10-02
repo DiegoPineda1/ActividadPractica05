@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebApplicationTurno.Controllers.TurnoControlle",
+    "Method": "Get",
+    "RelativePath": "api/TurnoControlle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplicationTurno.Controllers.TurnoControlle",
+    "Method": "Post",
+    "RelativePath": "api/TurnoControlle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turno",
+        "Type": "ActividadPractica_05.Models.T_TURNO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

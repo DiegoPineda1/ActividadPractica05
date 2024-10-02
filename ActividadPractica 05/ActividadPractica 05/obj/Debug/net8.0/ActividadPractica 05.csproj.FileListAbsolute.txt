@@ -1,0 +1,14 @@
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\bin\Debug\net8.0\ActividadPractica 05.deps.json
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\bin\Debug\net8.0\ActividadPractica 05.runtimeconfig.json
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\bin\Debug\net8.0\ActividadPractica 05.dll
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\bin\Debug\net8.0\ActividadPractica 05.pdb
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.csproj.AssemblyReference.cache
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.AssemblyInfoInputs.cache
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.AssemblyInfo.cs
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.dll
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\refint\ActividadPractica 05.dll
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.pdb
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ActividadPractica 05.genruntimeconfig.cache
+C:\Users\Diego Pineda\Desktop\Progra\ActividadPractica 05\ActividadPractica 05\obj\Debug\net8.0\ref\ActividadPractica 05.dll

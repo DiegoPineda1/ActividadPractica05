@@ -1,0 +1,6 @@
+@WebApplicationTurno_HostAddress = http://localhost:5267
+
+GET {{WebApplicationTurno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
